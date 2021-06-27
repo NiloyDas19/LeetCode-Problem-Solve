@@ -9,7 +9,7 @@
                 reverse one               ---> 4 3 2
                 Add the required position ---> 1 4 3 2 5 
 
-   Time Complixty: O(n)   here n--> node number.
+   Time Complexity: O(n)   here n--> node number.
 */
 
 class Solution {
