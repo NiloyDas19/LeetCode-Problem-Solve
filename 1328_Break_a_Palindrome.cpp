@@ -3,7 +3,7 @@
 /*
  It's an easy-medium question.
  Checked all possible cases to make the string lexicographical small.
- TC -> O(26*n^2*logn).
+ TC -> O(n).
 */
 
 class Solution
