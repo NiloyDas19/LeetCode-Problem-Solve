@@ -1,10 +1,12 @@
 // https://leetcode.com/problems/majority-element/
 
 /*
+
   It's a simple problem.But we need to know Boyer-Moore Majority Voting Algorithm
   to solve this problem optimally.
   TC-> O(n).
   SC-> O(1).
+
 */
 
 class Solution
